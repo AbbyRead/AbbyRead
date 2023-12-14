@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbbyRead
-- 👀 I’m interested in embedded systems design.
-- 🌱 I’m currently learning 6502 assembly, C++, programming fundamentals.
-- 💞️ I’m looking to collaborate on a Minecraft mod called Better Than Wolves.
+- 🌱 I’m currently learning 6502 assembly, POSIX, and NES programming with cc65.
+- I sometimes collaborate on a Minecraft mod called Better Than Wolves.
 - 📫 How to reach me @AbbyReadStuff on Twitter.
 
 <!---
